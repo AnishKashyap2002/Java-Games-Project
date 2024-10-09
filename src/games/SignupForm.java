@@ -73,7 +73,7 @@ public class SignupForm extends javax.swing.JFrame {
         jLabel4.setFont(new java.awt.Font("Ink Free", 1, 36)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 51, 51));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel4.setText("LOGIN");
+        jLabel4.setText("SIGN UP");
         jLabel4.setName(""); // NOI18N
         jPanel3.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(33, 122, 302, 60));
 
